@@ -4,4 +4,5 @@
 
 CSS Адаптивная вёрстка Vue.JS
 
-Старт роекта: npm run dev
+Сборка проекта: npm run build
+Старт роекта: npm run preview
